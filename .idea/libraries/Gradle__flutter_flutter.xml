@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: flutter.flutter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/flutter/flutter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
